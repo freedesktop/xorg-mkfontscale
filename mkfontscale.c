@@ -19,7 +19,7 @@
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
   THE SOFTWARE.
 */
-: /* $XdotOrg: xc/programs/mkfontscale/mkfontscale.c,v 1.1.4.2 2003/12/06 13:24:29 kaleb Exp $ */
+/* $XdotOrg: xc/programs/mkfontscale/mkfontscale.c,v 1.1.4.3.4.1 2004/03/04 17:48:51 eich Exp $ */
 /* $XFree86: xc/programs/mkfontscale/mkfontscale.c,v 1.21 2003/12/10 02:58:07 dawes Exp $ */
 
 #include <stdio.h>
