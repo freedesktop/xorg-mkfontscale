@@ -19,7 +19,7 @@
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
   THE SOFTWARE.
 */
-/* $XdotOrg: xc/programs/mkfontscale/mkfontscale.c,v 1.1.4.4 2004/03/05 13:41:16 eich Exp $ */
+/* $XdotOrg: xc/programs/mkfontscale/mkfontscale.c,v 1.2 2004/04/23 19:54:36 eich Exp $ */
 /* $XFree86: xc/programs/mkfontscale/mkfontscale.c,v 1.21 2003/12/10 02:58:07 dawes Exp $ */
 
 #include <stdio.h>
@@ -63,7 +63,8 @@
 #endif
 
 char *encodings_array[] =
-    { "iso8859-1", "iso8859-2", "iso8859-3", "iso8859-4", "iso8859-5",
+    { "ascii-0",
+      "iso8859-1", "iso8859-2", "iso8859-3", "iso8859-4", "iso8859-5",
       "iso8859-6", "iso8859-6.8", "iso8859-6.8x", "iso8859-6.16",
       "iso8859-7", "iso8859-8", "iso8859-9", "iso8859-10",
       "iso8859-11", "iso8859-12", "iso8859-13", "iso8859-14",
