@@ -39,6 +39,7 @@ char *notice_foundries[][2] =
      {"International Typeface Corporation", "itc"},
      {"Tiro Typeworks", "tiro"},
      {"XFree86", "xfree86"},
+     {"Xorg", "xorg"},
      {"Microsoft", "microsoft"},
      {"Omega", "omega"},
      {"Font21", "hwan"},

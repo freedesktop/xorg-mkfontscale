@@ -144,8 +144,10 @@ file even if it has been hand-edited.
 is equivalent to
 .BR mkfontdir .
 .SH AUTHOR
-.B Mkfontscale
-was written by Juliusz Chroboczek <jch@xfree86.org> for the XFree86
+The version of
+.B mkfontscale
+included in this X.Org Foundataion release 
+was originally written by Juliusz Chroboczek <jch@xfree86.org> for the XFree86
 project.  The functionality of this program was inspired by the
 .B ttmkfdir
 utility by Joerg Pommnitz.
